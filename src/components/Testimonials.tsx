@@ -9,7 +9,7 @@ function Testimonials() {
 
 <h1 className='my_heading1 mb-[24px]'>Customer testimonials</h1>
 
-<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+<p>&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.&quot;</p>
 {/* cards div */}
 
 <div className='mt-[80px] w-full flex gap-[32px] flex-row overflow-x-auto'>
@@ -26,7 +26,7 @@ function Testimonials() {
  <FaStar size={20}/>
  <FaStar size={20}/>
  </div>
-<p className='mb-[24px]'>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
+<p className='mb-[24px]'>&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.&quot;</p>
 
 <div className='flex gap-[20px]'>
 <div className="w-[56px] h-[56px] rounded-full overflow-hidden">
